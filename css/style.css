@@ -1,0 +1,36 @@
+header {
+    font-family: 'Notable', sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    color: white;
+    margin: 2rem 0 15rem 0
+}
+
+.huy {
+    background: url(../img/6fc88503f7cd8fae-orig_rooster_header_image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.huy .huyy {
+    color: white;
+    padding: 0px 0px 0px 200px;
+    letter-spacing: 1px;
+    font-size: 30px;
+    margin: 2px 0px 2px 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.huy .hi {
+    font-family: 'Notable', sans-serif;
+    font-size: 45px;
+    padding: 5px 0px 5px 15px;
+    margin: 0px 800px 0px 200px;
+    background-color: white;
+    color: black;
+}
+
+.trang2 {
+    background-color: aquamarine;
+    min-height: 100vh;
+}
